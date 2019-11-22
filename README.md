@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação Rocketshoes usando Redux, Redux-Saga, Immer, React Navigation, React Navigation Stack, styled-components, React Native Vector Icons e polished.
+Aplicação Rocketshoes usando Redux, Redux-Saga, Immer, React Navigation, React Navigation Stack, styled-components, React Native Vector Icons, polished e Hooks.
 
 ## Desafio 8: Utilizando React Hooks
 
