@@ -44,12 +44,12 @@ Nesse desafio você deve converter a aplicação que você desenvolveu no desafi
 
 ### Home
 
-![Home](/assets/home2.png)
+![Home](/.github/assets/home2.png)
 Esta é a primeira tela, onde encontram-se todos os produtos vindos da API numa listagem horizontal, podendo adicionar os produtos no carrinho.
 
 ### Carrinho
 
-![Cart](/assets/cart2.png)
+![Cart](/.github/assets/cart2.png)
 Nesta tela, encontram-se todos os produtos que são adicionados ao carrinho, podendo alterar a quantidade ou excluir o produto e também voltar para a página inicial.
 
 ## Desenvolvimento
