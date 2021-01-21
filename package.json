@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "immer": "^5.0.0",
+    "immer": "^8.0.1",
     "intl": "^1.2.5",
     "polished": "^3.4.2",
     "react": "16.9.0",
