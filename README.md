@@ -50,6 +50,9 @@ cd react-native-gostack9-challenge8
 # Install deps with npm or yarn
 npm install | yarn
 
+# Run API
+json-server server.json
+
 # Launch the app on android with react-native or yarn
 react-native run-android | yarn android
 
