@@ -47,7 +47,7 @@
     "metro-react-native-babel-preset": "^0.57.0",
     "prettier": "^1.19.1",
     "react-test-renderer": "16.9.0",
-    "yarn": "^1.22.0"
+    "yarn": "^1.22.13"
   },
   "jest": {
     "preset": "react-native"
